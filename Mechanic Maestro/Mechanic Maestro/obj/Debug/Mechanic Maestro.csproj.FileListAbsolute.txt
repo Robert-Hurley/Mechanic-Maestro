@@ -1,0 +1,10 @@
+C:\Users\robhu\source\repos\Mechanic Maestro\Mechanic Maestro\bin\Debug\Mechanic Maestro.exe.config
+C:\Users\robhu\source\repos\Mechanic Maestro\Mechanic Maestro\bin\Debug\Mechanic Maestro.exe
+C:\Users\robhu\source\repos\Mechanic Maestro\Mechanic Maestro\bin\Debug\Mechanic Maestro.pdb
+C:\Users\robhu\source\repos\Mechanic Maestro\Mechanic Maestro\obj\Debug\Mechanic Maestro.csproj.AssemblyReference.cache
+C:\Users\robhu\source\repos\Mechanic Maestro\Mechanic Maestro\obj\Debug\Mechanic_Maestro.MechanicMaestro.resources
+C:\Users\robhu\source\repos\Mechanic Maestro\Mechanic Maestro\obj\Debug\Mechanic_Maestro.Properties.Resources.resources
+C:\Users\robhu\source\repos\Mechanic Maestro\Mechanic Maestro\obj\Debug\Mechanic Maestro.csproj.GenerateResource.cache
+C:\Users\robhu\source\repos\Mechanic Maestro\Mechanic Maestro\obj\Debug\Mechanic Maestro.csproj.CoreCompileInputs.cache
+C:\Users\robhu\source\repos\Mechanic Maestro\Mechanic Maestro\obj\Debug\Mechanic Maestro.exe
+C:\Users\robhu\source\repos\Mechanic Maestro\Mechanic Maestro\obj\Debug\Mechanic Maestro.pdb
